@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'price_screen.dart';
 
+//by Henry Ning, 11-3-2020
+
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
